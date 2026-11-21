@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Belle Inosanto",
+    "biografia": "Especialista en relatos de mundos oscuros y ciencia ficción especulativa.",
+    "imagen": "../preD/belle.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Lucius D Gunnes",
+    "biografia": "Autor enfocado en tramas de misterio, suspenso y dieselpunk.",
+    "imagen": "../preD/Lucius.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Serafina",
+    "biografia": "Escritora de fantasía sobrenatural y narrativas épicas de abismos insondables.",
+    "imagen": "../preD/sera.jpg"
+  }
+]
